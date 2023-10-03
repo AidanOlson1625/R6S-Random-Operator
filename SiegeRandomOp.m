@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 % Change the first input (side) to select the side, and the second input (n) 
 % for the amount of unique, random operators to be picked.
 
